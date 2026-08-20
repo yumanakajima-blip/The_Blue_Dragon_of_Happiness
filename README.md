@@ -28,7 +28,7 @@ D&D 5e シナリオ **「幸せの青い竜（The Blue Dragon of Happiness）」
 | 01 | [序章：キャンドルキープ](scenario/01-opening-candlekeep.md) | 導入、入館プレゼン、クイズ戦闘 |
 | 02 | [第1章：パズ地方](scenario/02-puzz-region.md) | 落書きの謎、依頼人ボブ、幽霊の出現 |
 | 03 | [第2章：遺跡への道](scenario/03-road-and-entrance.md) | 言語の壁、研究員ゾンビ戦 |
-| 04 | [第3章：ジャッジの研究所](scenario/04-judges-lab.md) | 囚われた竜、ボス戦、裏切り |
+| 04 | [第3章：ダーグリムの研究所](scenario/04-dargrims-lab.md) | 囚われた竜、ボス戦、裏切り |
 | 05 | [終章：天空遺跡](scenario/05-sky-ruins.md) | ドラゴン化、石板、崩落と脱出 |
 | 06 | [エピローグ](scenario/06-epilogue.md) | 復活、報酬、締め |
 | 07 | [NPC・敵データ](scenario/07-npc-stats.md) | 全データと演技指針 |
@@ -60,7 +60,7 @@ D&D 5e シナリオ **「幸せの青い竜（The Blue Dragon of Happiness）」
 1. [第1話 キャンドルキープの珍客](docs/sessions/session-01.md)（2026/01/28）
 2. [第2話 青き竜の逸話とパズ地方](docs/sessions/session-02.md)（2026/02/25〜26）
 3. [第3話 遺跡への道と研究員ゾンビ](docs/sessions/session-03.md)（2026/03/04）
-4. [第4話 実験室の竜とジャッジ・アイアンハート](docs/sessions/session-04.md)（2026/03/18）
+4. [第4話 実験室の竜とダーグリム・アイアンヴェイン](docs/sessions/session-04.md)（2026/03/18）
 5. [第5話 天空遺跡と石板の言葉](docs/sessions/session-05.md)（2026/04/29〜30）
 
 ---
